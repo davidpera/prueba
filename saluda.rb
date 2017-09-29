@@ -1,4 +1,4 @@
-print "Como te llamas?"
+print "Como te llamas campeon?"
 nombre=gets.chomp
 puts "hola #{nombre} encantado de conocerte"
-puts "igualmente"
+puts "igualmente, colega"
